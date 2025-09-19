@@ -1,2 +1,1 @@
-# Security-HomeLab-With-Wazuh
-Deploying Wazuh XDR and SIEM tool on Proxmox Virtual Environment
+# Deploying Wazuh XDR and SIEM tool on Proxmox Virtual Environment
