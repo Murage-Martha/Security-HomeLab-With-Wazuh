@@ -1,4 +1,19 @@
 # Security HomeLab With Wazuh XDR and SIEM
-Deploying Wazuh XDR and SIEM tool on Proxmox Virtual Environment
+_Deploying Wazuh XDR and SIEM tool on Proxmox Virtual Environment_
 
-My goal in putting up this lab environment is to gain **an understanding of Wazuh's features** and operational capabilities in order to practise **endpoint security**. Since mobile devices, cloud usage, and remote work eliminated conventional network perimeters, endpoint security has become crucial for modern businesses, as every endpoint can be attacked. Organisations require real-time endpoint detection, response, and ongoing monitoring to maintain their security posture because sophisticated attacks are evading perimeter defences. This lab demonstrates **practical XDR skills**, threat hunting abilities, and incident response procedures necessary for safeguarding today's dispersed enterprise networks.
+ 🚀 The goal: to gain **an understanding of Wazuh's features** and operational capabilities in order to practise **endpoint security**. 
+
+Why Wazuh:
+
+✔️ One of the best open-source XDR/SIEM platforms available, enterprise-grade features
+✔️ Strong community support with active forums and documentation
+✔️ Free to use - perfect for learning without licensing costs
+✔️ Great for building real-world security skills
+
+Why Proxmox:
+Proxmox is a Type 1 hypervisor - runs directly on hardware 
+
+ 🔹 Better performance than Type 2 hypervisors (VirtualBox, VMware Workstation)
+ 🔹 Mimics how real companies deploy virtual infrastructure
+ 🔹 Better isolation between VMs - more secure lab environment
+ 🔹 Scales better for multiple VMs running simultaneously
